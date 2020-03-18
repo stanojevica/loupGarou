@@ -1,0 +1,172 @@
+[
+    {
+        "id" : 1,
+        "tip" : "Promocija albuma",
+        "nazivLokala" : "Bluz i Pivo" ,
+        "datum" : "2019-12-12",
+        "naslov" : "Promocija albuma",
+        "slika" : {
+            "nastup" : "assets/img/bluzIPivo.jpg",
+            "rezervacija" : "assets/img/bluzIPivo.png"
+        },
+        "lokacija" : "Cetinjska 15, Dorćol, Beograd",
+        "dodatno" : {
+            "opis" : "Bluz i Pivo ili od milošte Bluzika, je dom muzike, klub crnog zvuka, u kom, pored blues-a, možete čuti i srodne pravce poput blues rocka, funka, soul muzike, jazz-a, sve ono što je proizašlo iz afro-američke i afričke tradicije, pa i ponešto probrano iz sestrinskih tradicija drugih meridijana i paralela. ",
+            "link" : "https://www.facebook.com/bluzipivo/",
+            "kontakt" : "069 4431944"
+        }
+    },
+    {
+        "id" : 2,
+        "tip" : "Privatna žurka",
+        "nazivLokala" : "Dom Omladine Beograd" ,
+        "datum" : "2019-07-29",
+        "naslov" : "Mondey Blues",
+        "slika" :{
+            "nastup" :  "assets/img/domOmladine.jpg",
+            "rezervacija" : "assets/img/domOmladine1.png"
+        },
+        "lokacija" : "Makedonska 22, Belgrade (Savski Venac)",
+        "dodatno" : {
+            "opis" : "Dom omladine obuhvata sve umetničke discipline i forme: muziku, film, pozorište, vizuelne umetnosti i nove medije. Podjednako važno mesto u programskim aktivnostima zauzimaju debatni i tribinski programi, u okviru kojih se analiziraju aktuelne teme iz različitih oblasti (popularna i tradicionalna kultura, filozofija, socijalna pitanja, nauka, književnost, naučna fantastika, muzika…), ali i programi bazirani na spoju umetnosti i nauke. ",
+            "link" : "http://domomladine.org/",
+            "kontakt" : "011 3220 127"
+        }
+    },
+    {
+        "id" : 3,
+        "tip" : "Promocija albuma",
+        "nazivLokala" : "Muzicka kuća - Metropolis" ,
+        "datum" : "2020-1-24",
+        "naslov" : "Koncertna promocija albuma",
+        "slika" : {
+            "nastup" : "assets/img/metropolis.jpg",
+            "rezervacija" : "assets/img/metropolis1.png"
+        },
+        "lokacija" : "Makedonska 21, Belgrade (Savski Venac)",
+        "dodatno" : {
+            "opis" : "Muzička kuća Metropolis se sastoji iz dva aktivna dela: unutrašnji deo koji je istovremeno prodavnica ploča i diskova, kafe i koncertni prostor i spoljašnji deo koji se sastoji od bašte koja je deo kafea i DJ pulta za puštanje muzike u letnjem periodu. U samoj prodavnici možete da nabavite skoro sve naslove velikih svetskih izdavačkih kuća poput Universal Music, Sony Entertainment kao i mnoga domaća izdanja. U ponudi kafea nalazi se veliki izbor najkvalitetnijih svetskih i domaćih lager, craft i organskih piva, kao i visokokvalitetni napici od kafe, po kojem je ovo mesto već široko prepoznatljivo.",
+            "link" : "https://www.metropolismusic.rs/MKM",
+            "kontakt" : "+381 63 237 020"
+        }
+    },
+    {
+        "id" : 4,
+        "tip" : "Živa svirka",
+        "nazivLokala" : "Bluz i Pivo" ,
+        "datum" : "2019-02-12",
+        "naslov" : "Back in our hometown",
+        "slika" : {
+            "nastup" : "assets/img/bluzIPivo.jpg",
+            "rezervacija" : "assets/img/bluzIPivo.png"
+        },
+        "lokacija" : "Cetinjska 15, Dorćol, Beograd",
+        "dodatno" : {
+            "opis" : "Bluz i Pivo ili od milošte Bluzika, je dom muzike, klub crnog zvuka, u kom, pored blues-a, možete čuti i srodne pravce poput blues rocka, funka, soul muzike, jazz-a, sve ono što je proizašlo iz afro-američke i afričke tradicije, pa i ponešto probrano iz sestrinskih tradicija drugih meridijana i paralela. ",
+            "link" : "https://www.facebook.com/bluzipivo/",
+            "kontakt" : "069 4431944"
+        }
+    },
+    {
+        "id" : 5,
+        "tip" : "Živa svirka",
+        "nazivLokala" : "Mojo Club - Senta" ,
+        "datum" : "2020-02-22",
+        "naslov" : "Our mojos were working at MOJO CLUB Senta",
+        "slika" : {
+            "nastup" : "assets/img/mojoClub.jpg",
+            "rezervacija" : "assets/img/mojoClub.png"
+        },
+        "lokacija" : "Jesenja 5, Senta 24400",
+        "dodatno" : {
+            "opis" : "Mojo Club je otvoren 8. marta 1991. i ubrzo postao jedan od najpopularnijih jazz-blues-rock klubova u Srednjoj Evropi. Sagrađen je u centru Sente, gradića koji se nalazi na pola puta između Budimpešte i Beograda… U proteklih 20 godina, U mojo Club-u je održano  preko 1400 koncerata, na kojima su nastupili gotovo svi ex-yu blues bendovi, a od svetskih i evropskih blues zvezda sledeći iz S.A.D.: SUGAR BLUE, BOB MARGOLIN, JOHNNY MARS, RONALD ABRAMS, LARRY GARNER, LEENA CONQUIST, KATIE FARMER, T-BONE FISHER, EB DAVIS, BILLY GIBSON, MARK TORTORICCI, LITTLE G. WEEVIL… i fenomenalni band iz L.A.-a IMPERIAL CROWNS ",
+            "link" : "http://www.mojoclub.rs/",
+            "kontakt" : "+381 24 815-425"
+        }
+    },
+    {
+        "id" : 6,
+        "tip" : "Živa svirka",
+        "nazivLokala" : "Club MLADOST" ,
+        "datum" : "2020-02-21",
+        "naslov" : "Subotice spremni smo!",
+        "slika" : {
+            "nastup" : "assets/img/clubMladost.jpg",
+            "rezervacija" : "assets/img/clubMladost1.png"
+        },
+        "lokacija" : "Harambašićeva 4, Суботица 24000",
+        "dodatno" : {
+            "opis" : "Caffe, koncerti, promocije, izložbe, performans, sala za probe, iznajmljivanje opreme....Iznajmljivanje audio i light opreme, ozvučavanje, audio inžinjering (analiza, izrada projekata i instalacija audio sistema za potrebe diskoteka, kafea, noćnih klubova i sl.)Iznajmljivanje prostora i opreme (Club MLADOST) za probe bendova.",
+            "link" : "http://www.mojoclub.rs/",
+            "kontakt" : "+381 24 815-425"
+        }
+    },
+    {
+        "id" : 7,
+        "tip" : "Živa svirka",
+        "nazivLokala" : "Muzicka kuća - Metropolis" ,
+        "datum" : "2020-03-30",
+        "naslov" : "Nastupamo zajedno",
+        "slika" : {
+            "nastup" : "assets/img/metropolis.jpg",
+            "rezervacija" : "assets/img/metropolis1.png"
+        },
+        "lokacija" : "Makedonska 21, Belgrade (Savski Venac)",
+        "dodatno" : {
+            "opis" : "Muzička kuća Metropolis se sastoji iz dva aktivna dela: unutrašnji deo koji je istovremeno prodavnica ploča i diskova, kafe i koncertni prostor i spoljašnji deo koji se sastoji od bašte koja je deo kafea i DJ pulta za puštanje muzike u letnjem periodu. U samoj prodavnici možete da nabavite skoro sve naslove velikih svetskih izdavačkih kuća poput Universal Music, Sony Entertainment kao i mnoga domaća izdanja. U ponudi kafea nalazi se veliki izbor najkvalitetnijih svetskih i domaćih lager, craft i organskih piva, kao i visokokvalitetni napici od kafe, po kojem je ovo mesto već široko prepoznatljivo.",
+            "link" : "https://www.metropolismusic.rs/MKM",
+            "kontakt" : "+381 63 237 020"
+        }
+    },
+    {
+        "id" : 8,
+        "tip" : "Živa svirka",
+        "nazivLokala" : "Mojo Club - Senta" ,
+        "datum" : "2020-04-05",
+        "naslov" : "Senta - uživamo zajedno",
+        "slika" : {
+            "nastup" : "assets/img/mojoClub.jpg",
+            "rezervacija" : "assets/img/mojoClub.png"
+        },
+        "lokacija" : "Jesenja 5, Senta 24400",
+        "dodatno" : {
+            "opis" : "Mojo Club je otvoren 8. marta 1991. i ubrzo postao jedan od najpopularnijih jazz-blues-rock klubova u Srednjoj Evropi. Sagrađen je u centru Sente, gradića koji se nalazi na pola puta između Budimpešte i Beograda… U proteklih 20 godina, U mojo Club-u je održano  preko 1400 koncerata, na kojima su nastupili gotovo svi ex-yu blues bendovi, a od svetskih i evropskih blues zvezda sledeći iz S.A.D.: SUGAR BLUE, BOB MARGOLIN, JOHNNY MARS, RONALD ABRAMS, LARRY GARNER, LEENA CONQUIST, KATIE FARMER, T-BONE FISHER, EB DAVIS, BILLY GIBSON, MARK TORTORICCI, LITTLE G. WEEVIL… i fenomenalni band iz L.A.-a IMPERIAL CROWNS ",
+            "link" : "http://www.mojoclub.rs/",
+            "kontakt" : "+381 24 815-425"
+        }
+    },
+    {
+        "id" : 9,
+        "tip" : "Živa svirka",
+        "nazivLokala" : "Bluz i Pivo" ,
+        "datum" : "2020-04-10",
+        "naslov" : "Na domaćoj sceni",
+        "slika" : {
+            "nastup" : "assets/img/bluzIPivo.jpg",
+            "rezervacija" : "assets/img/bluzIPivo.png"
+        },
+        "lokacija" : "Cetinjska 15, Dorćol, Beograd",
+        "dodatno" : {
+            "opis" : "Bluz i Pivo ili od milošte Bluzika, je dom muzike, klub crnog zvuka, u kom, pored blues-a, možete čuti i srodne pravce poput blues rocka, funka, soul muzike, jazz-a, sve ono što je proizašlo iz afro-američke i afričke tradicije, pa i ponešto probrano iz sestrinskih tradicija drugih meridijana i paralela. ",
+            "link" : "https://www.facebook.com/bluzipivo/",
+            "kontakt" : "069 4431944"
+        }
+    },
+    {
+        "id" : 10,
+        "tip" : "Privatna žurka",
+        "nazivLokala" : "Club MLADOST" ,
+        "datum" : "2020-04-21",
+        "naslov" : "Subotice spremni smo!",
+        "slika" : {
+            "nastup" : "assets/img/clubMladost.jpg",
+            "rezervacija" : "assets/img/clubMladost1.png"
+        },
+        "lokacija" : "Harambašićeva 4, Суботица 24000",
+        "dodatno" : {
+            "opis" : "Caffe, koncerti, promocije, izložbe, performans, sala za probe, iznajmljivanje opreme....Iznajmljivanje audio i light opreme, ozvučavanje, audio inžinjering (analiza, izrada projekata i instalacija audio sistema za potrebe diskoteka, kafea, noćnih klubova i sl.)Iznajmljivanje prostora i opreme (Club MLADOST) za probe bendova.",
+            "link" : "http://www.mojoclub.rs/",
+            "kontakt" : "+381 24 815-425"
+        }
+    }
+]

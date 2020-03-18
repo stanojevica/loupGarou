@@ -1,0 +1,210 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    color: white;
+    background-color: black;
+    font-family: 'Acme' ;
+}
+#navigation{
+    height: 80px;
+    border-bottom: 2px solid white;
+}
+#nav{
+    width: 70%;
+    font-size: 30px;
+}
+li{
+    list-style-type: none;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: #582b60;
+    text-decoration: none;
+}
+.informacija{   position: absolute;
+    z-index: 1;
+    color: #582b60;
+    font-size: 15px;
+    margin-left: -5px;
+    display: none;
+}
+#logo{
+    top:15;
+    width:130px;
+    z-index: 5 !important;
+}
+#navigationHome{
+    background-image: url("../img/cover4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 80vh;
+}
+h2,th,span, #nemaRezervacija a,.boja{
+    color:#582b60;
+}
+#navigationHome{
+    background-color: transparent ;
+}
+#nastupi,#navigation{
+    background-color: black;
+}
+#filterSort{
+    background-color: black;
+    border-right: 2px solid white;
+    top:80px;
+    z-index: -1;
+    min-height: 90vh;
+}
+#filterSort h2{
+    font-size: x-large;
+}
+#content{
+    margin-top: 150px;
+    margin-left: 25%;
+    z-index: -1;
+}
+
+#content h3, #aboutUs p{
+    font-size: xx-large;
+}
+table, #kontaktForm, #kontaktInfo p, #tim p,#info p,#autor p{
+    font-size: 2vw;
+}
+h1,h2,h3,h4,#nemaRezervacija a{
+    font-size: 3.3vw;
+}
+.info-toggle{
+    display: none;
+}
+.slikeLokala{
+    border-radius: 50%;
+}
+.btn-toggle,.contentSadrzaj{
+    margin-bottom: 15px;
+}
+.btn-toggle, .prestojeciDogadjaj,.otkaziRezervaciju,.otkaziRezervacijuKontakt{
+    background-color: transparent;
+    color:#fff;
+    border-radius: 45%;
+    padding: 3px 10px;
+    border: 1px solid #582b60;
+}
+#gal{
+    position: absolute;
+}
+.imgal-img{
+    padding: 5px;
+}
+#kontaktForm  input,
+#kontaktForm textarea ,
+#kontaktForm select, 
+#filterSort input, 
+#filterSort select
+{
+    background-color: transparent ;
+    border: none;
+    border-bottom: 1px solid #582b60;
+    box-shadow: none ;
+    color: white;
+    transition: all 0.3s;
+}
+.custom-control-input:checked~.custom-control-label::before{
+    background-color:#582b60;
+    border-color:#582b60;
+}
+.optTip,#filterSort select option{
+    background-color: black;
+    border: none;
+}
+#nemaRezervacija{
+    font-size: 4.5vw;
+}
+.rezervacijeInfo h2,.rezervacijeInfo h4{
+    font-size: 2vw;
+}
+.rezervacijeInfo p{
+    font-size: 1.2vw;
+}
+.izabratiBroj,#popUp{
+    display: none;
+    position: fixed;
+    z-index: 10;
+    left:40%;
+    top:40%;
+    min-height:20vh;
+    width: 20vw;
+    background-color: rgba(255,255,255,0.8);
+    text-align: center;
+    border-radius: 15px;
+    
+}
+.textBroj{
+    color:#582b60;
+}
+.izBroj{
+    background-color: transparent;
+    color:#582b60;
+    border-bottom:1px solid #582b60;
+    width: 50%;
+}
+.rezervisi{
+    background-color: transparent;
+    color:#582b60;
+    border:1px solid #582b60;
+    border-radius: 40%;
+}
+.rezervacijaInfo{
+    min-height: 75vh;
+}
+#filterSort{
+    font-size: medium !important;
+}
+#responsive{
+    display: none !important;
+}
+footer{
+    border-top: 1px solid #fff;
+    /* position: absolute;
+    bottom: 0; */
+    z-index: 5;
+    background-color: #000;
+    margin-bottom: 0;
+}
+.video{
+    width: 100%;
+    height: 100%;
+}
+.borderRadus{
+    border-radius: 70px;
+}
+.velikaSlika{
+    position: fixed;
+    z-index: 1;
+    background-color: rgba(0,0,0,0.8);
+    top:0;
+    left:0;
+    width: 100vw;
+    height: 100vh;
+    display: none;
+}
+.zatvori{
+    position: absolute;
+    z-index: 3;
+    top:0;
+    left: 90% !important;
+    font-size: 30px;
+}
+.otvoreneSlike{
+    position: relative;
+    z-index: -1;
+}
+#nemaNastupa{
+    height: 70vh;
+}

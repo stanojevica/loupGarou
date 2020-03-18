@@ -1,0 +1,26 @@
+[
+    {
+        "href" : "index.html",
+        "opis" : "Početna"
+    },
+    {
+        "href" : "nastupi.html",
+        "opis" : "Nastupi"
+    },
+    {
+        "href" : "galerija.html",
+        "opis" : "Galerija"
+    },
+    {
+        "href" : "tim.html",
+        "opis" : "Naš tim"
+    },
+    {
+        "href" : "kontakt.html",
+        "opis" : "Kontakt"
+    },
+    {
+        "href" : "oAutoru.html",
+        "opis" : "O autoru"
+    }
+]

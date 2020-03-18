@@ -1,0 +1,78 @@
+[
+    {
+        "id" : 1,
+        "title" : "Kako je sve počelo",
+        "description" : [
+            "Bend je osnovao vodeći pevač i gitarista Vladan Petrović 2016. Godine. Udružio je snage sa harmonikašem Ivanom Jovanovićem i započeo rad na njihovim originalnim pesmama. Završili su poslednji sastav benda u maju 2018. godine.","Od tada bend redovno nastupa na velikim regionalnim festivalima i u lokalnim blues, jazz i rock klubovima."
+        ],
+        "isImg" : true,
+        "src" : "assets/img/pocetak.jpg",
+        "links" : []
+    },
+    {
+        "id" : 2,
+        "title" : "Naš prvi nastup",
+        "description" : [
+            "Tokom leta 2019. godine Loup-Garou je bio na prvoj regionalnoj turneji, svirajući na preko 20 koncerata u Rumuniji, Srbiji, Crnoj Gori i Bosni i Hercegovini. Neki od zapaženih festivala su: Open Air Blues Festival (ROU), Nišville Jazz Fest (SRB), Budva Beer Fest (MNE), Petrovac Jazz Fest (MNE), Beer Fest Bijeljina (BIH), Mountain Music Fest (SRB), Blues Pentru Temišvara (ROU) i drugi."
+        ],
+        "isImg" : false,
+        "src" : "https://www.youtube.com/embed/DWka0T_ybJA",
+        "links" : []
+    },
+    {
+        "id" : 3,
+        "title" : "Naš prvi album",
+        "description" : [
+            "<span><b>Vitchcraft and Spirits</b></span> objavljen je u decembru 2019. godine i označava prvi album benda. Sa 13 svojih originalnih kompozicija zaokuplja složenost emocija današnjeg čoveka."
+        ],
+        "isImg" : true,
+        "src" : "assets/img/prviAlbum.jpg",
+        "links" : [
+            {
+                "title" : "Go to Hell",
+                "href" : "https://www.youtube.com/watch?v=WF4-wX6krVc"
+            },
+            {
+                "title" : "Black Clouded Storm",
+                "href" : "https://www.youtube.com/watch?v=kU8p1ihh6MU"
+            },
+            {
+                "title" : "A Pocket Full Of Dreams",
+                "href" : "https://www.youtube.com/watch?v=s7h3bAWfNa0"
+            },
+            {
+                "title" : "Lost Without You",
+                "href" : "https://www.youtube.com/watch?v=4RmmeNENjio"
+            },
+            {
+                "title" : "Perfect Ride (Gypsy woman)",
+                "href" : "https://www.youtube.com/watch?v=v-LvJMwJFwg"
+            },
+            {
+                "title" : "Lonely",
+                "href" : "https://www.youtube.com/watch?v=taVseeUcxcg"
+            },
+            {
+                "title" : "Voodoo Gumbo",
+                "href" : "https://www.youtube.com/watch?v=VOjgfyFtS7o"
+            },
+            {
+                "title" : "Liar",
+                "href" : "https://www.youtube.com/watch?v=02sGxG2LwPw"
+            },
+            {
+                "title" : "Changed My Ways",
+                "href" : "https://www.youtube.com/watch?v=vD5TTP_rVcM"
+            },
+            {
+                "title" : "Red Light District",
+                "href" : "https://www.youtube.com/watch?v=nAGkF7scEos"
+            },
+            {
+                "title" : "Damage Done (No Good)",
+                "href" : "https://www.youtube.com/watch?v=CYOQClCh3xE"
+            }
+        ]
+    }
+
+]

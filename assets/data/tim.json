@@ -1,0 +1,37 @@
+[
+    {
+        "id" : 1,
+        "ime" : "Vladan Petrović",
+        "opis" : "Za mikrofonom i ritam gitarom, glavom i pozamašnom bradom je naš pevač. Prvi među jednakima, svojim autentičnim hrapavim vokalom orkestira našim bluz ansamblom.",
+        "instrument" : "Ritam gitara",
+        "slika" : "assets/img/dVladaLogo.png"
+    },
+    {
+        "id" : 2,
+        "ime" : "Vladimir Nedić",
+        "opis" : "Prva gitara benda - Vladimir Nedić. Poynatom domaćoj bluz sceni kao član raznih bendova, a posebno je ostala upamćena njegova slajd gitara tokom rada u dragom nam bendu Night train.",
+        "instrument" : "Slajd gitara",
+        "slika" : "assets/img/vladaLogo.png"
+    },
+    {
+        "id" : 3,
+        "ime" : "Milutin Kažić",
+        "opis" : "Gospodar gruva i masnog ritma. Stub kojeg se svi pridržavamo - za bas gitarom je Milutin Kažić",
+        "instrument" : "Bas gitara",
+        "slika" : "assets/img/milutinLogo.png"
+    },
+    {
+        "id" : 4,
+        "ime" : "Stefan Marković",
+        "opis" : "Ko udara tako pozno u dubini noćnog mira, to je Santos Stefa što u doboš svira.On svojim palicama diktira puls benda i pumpa energiju u svakome od nas",
+        "instrument" : "Bubnjevi",
+        "slika" : "assets/img/santosLogo.png"
+    },
+    {
+        "id" : 4,
+        "ime" : "Ivan Jovanović ",
+        "opis" : "I poslednji član benda, ali ne i manje važan, jedan od osnivača našeg benda je Ivan Kobaja Jovanović. Daje bendu posebnu autentičnos svojim umećem sviranja usne harmonike.",
+        "instrument" : "Usna harmonika",
+        "slika" : "assets/img/kobajaLogo.png"
+    }
+]
