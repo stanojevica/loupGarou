@@ -19,9 +19,6 @@
     h1,h2,h3,#aboutUs p{
         font-size: 3vw !important;
     }
-    /* .rezervacijaInfo h1,h2,h3{
-        font-size: 5vw !important;
-    } */
     
     h4,label,form,table,.btn-toggle, #content a,.prestojeciDogadjaj{
         font-size: 3vw !important;
@@ -92,7 +89,7 @@
     #lokali p, #tipSvirke p{
         font-size: small !important;
     }
-    #filterSort h2,h4,p,#tim h2,#autor h2{
+    #filterSort h2,h4,p{
         font-size: large !important;
     }
     h4,label,form,table,.btn-toggle, #content a,.prestojeciDogadjaj{
