@@ -53,6 +53,9 @@
     
 }
 @media screen and (max-width: 540px){
+    .velikaSlika{
+        display: none !important;
+    }
     .izabratiBroj,#popUp{
         width:45%;
         left:30%;
